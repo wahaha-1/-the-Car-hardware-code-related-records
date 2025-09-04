@@ -6,6 +6,6 @@
 - The planned functions are: autonomous navigation, SLAM, multi-machine joint mission, and if possible, we hope to realize the interaction between car and drone
 
 -### 1 rrc_data_monitor:
-- STM32机器人控制器数据监控器
-- 支持实时显示各种传感器和状态数据
-- 基于RRC通信协议的完整数据监控可视化工具
+- STM32机器人控制器数据监控器  STM32 robot controller data monitor
+- 支持实时显示各种传感器和状态数据  Support real-time display of various sensor and status data
+- 基于RRC通信协议的完整数据监控可视化工具  Complete data monitoring and visualization tool based on RRC communication protocol
